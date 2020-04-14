@@ -20,12 +20,6 @@ module.exports = {
 					created_at: new Date(),
 					updated_at: new Date(),
 				},
-				{
-					name: faker.name.findName(),
-					email: faker.internet.email(),
-					created_at: new Date(),
-					updated_at: new Date(),
-				},
 			],
 			{}
 		);

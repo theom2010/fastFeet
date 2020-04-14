@@ -37,6 +37,7 @@ Arquivo `Insomnia.json` disponível no pacote;
 - `yarn sequelize db:migrate` para executar as migrations;
 - Para executar somente a migration de `admin-user` rode o comando `yarn sequelize db:seed:all;
 - `yarn dev` para iniciar o servidor;
+- `yarn queue` para iniciar a fila;
 
 ### Web
 
