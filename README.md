@@ -31,7 +31,7 @@ Arquivo `Insomnia.json` disponível no pacote;
 
 ### Backend
 
-- A partir da raiz do projeto, entre na pasta rodando `cd server`;
+- A partir da raiz do projeto, entre na pasta rodando `cd backend`;
 - `yarn` para instalar sua dependências;
 - `cp .env.example .env` e preencha o arquivo `.env` com as variáveis ambiente;
 - `yarn sequelize db:migrate` para executar as migrations;
